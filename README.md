@@ -1,6 +1,8 @@
 # mARMi Compiler
 Compiles a set of instructions inspired by ARM for ECS154A cpu lab. 
 
+**!Overwrites files!**
+
 The machine code written in program.txt and writes the assembly line by line in output.txt.
 
 Seperate arguments by spaces and comments can be made on new lines using a semicolon and a space, which will be written in output.txt.

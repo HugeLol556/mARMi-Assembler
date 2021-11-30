@@ -41,7 +41,8 @@ def checkInt(str):
     return str.isdigit()
 
 instructions = open("program.txt","r")
-output = open("output.txt","w")
+output = open("output.txt","w+")
+LIST = open("LIST.lst","w+")
 
 lines = instructions.readlines()
 
