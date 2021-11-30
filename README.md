@@ -1,5 +1,5 @@
 # mARMi Compiler
-Compiles a set of instructions inspired by ARM. 
+Compiles a set of instructions inspired by ARM for ECS154A cpu lab. 
 
 The machine code written in program.txt and writes the assembly line by line in output.txt.
 
