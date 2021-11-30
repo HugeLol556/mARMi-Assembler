@@ -185,7 +185,7 @@ c001
 0600
 ;
 ; Fib Assignment
-; R5 = # R0,1,2 = Vars R3 = counter R4 = 1 for add counter
+; R5 = count R0,1,2 = Vars R3 = counter R4 = 1 for add counter
 8080
 9000
 1029
