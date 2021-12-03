@@ -3,7 +3,7 @@ Compiles a set of instructions inspired by ARM for ECS154A cpu lab.
 
 **!Overwrites files!**
 
-Reads machine code written in program.txt and writes the assembly line by line in output.txt. This output can be copy pasted into Logisim ROM for execution
+Reads assembly code written in program.txt and writes the machine code line by line in output.txt. This output can be copy pasted into Logisim ROM for execution
 
 Seperate arguments by spaces and comments can be made on new lines using a semicolon and a space, which will be written in output.txt.
 
